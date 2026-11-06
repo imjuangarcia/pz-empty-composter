@@ -1,0 +1,6 @@
+name=Empty Composter
+id=EmptyComposterB42
+description=Adds Empty Composter to the Gardening menu of composters, like emptying a rain barrel. Clears the leftover compost a sack can't take, so the composter can be picked up again.
+poster=poster.png
+icon=icon.png
+modversion=1.1.1
